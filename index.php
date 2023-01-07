@@ -6,12 +6,12 @@
 
 get_header();
 ?>
+
 <main>
   Main
 </main>
-<footer>
-  footer
-</footer>
+<?php get_footer(); ?>
+
 </body>
 
 </html>
