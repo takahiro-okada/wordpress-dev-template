@@ -10,7 +10,7 @@ const compileSass = (done) => {
   return gulp
     .src("./src/scss/**/*.scss")
     .pipe(sass())
-    .pipe(gulp.dest("./dist/css"));
+    .pipe(gulp.dest("../dist/css"));
   done();
 };
 
