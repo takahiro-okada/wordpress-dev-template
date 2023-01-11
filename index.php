@@ -7,7 +7,7 @@
 get_header();
 ?>
 
-<main>
+<main class="l-inner">
   Main
 </main>
 <?php get_footer(); ?>
