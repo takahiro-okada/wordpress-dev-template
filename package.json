@@ -1,0 +1,23 @@
+{
+  "name": "wordpress-dev-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takahiro-okada/wordpress-dev-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takahiro-okada/wordpress-dev-template/issues"
+  },
+  "homepage": "https://github.com/takahiro-okada/wordpress-dev-template#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
