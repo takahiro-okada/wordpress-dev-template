@@ -1,0 +1,6 @@
+.hoge {
+  color: red;
+}
+.hoge .test {
+  font-size: 22px;
+}
