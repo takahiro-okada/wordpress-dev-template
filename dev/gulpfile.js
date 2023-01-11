@@ -14,5 +14,10 @@ const compileSass = (done) => {
   done();
 };
 
+const watch = () => {
+  gulp.watch("./src/scss/**/*.scss", compileSass);
+};
+
 exports.test = helloGulp;
 exports.compileSass = compileSass;
+exports.watch = watch;
